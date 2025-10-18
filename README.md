@@ -67,6 +67,8 @@ Configured transitions between steps and ensured outputs were properly mapped.
 
 Tested with multiple executions to validate successful and failure paths.
 
+![ImageClassificationWorkflow-SconesUnlimited]([project/images/state-machine-workflow.png](https://github.com/shilpamadini/image-classifier-scones-unlimited/blob/master/project/images/state-machine-workflow.png))
+
 5. Model Monitoring
 
 Verified data captured in S3 under /data_capture/AllTraffic/...
