@@ -1,0 +1,14 @@
+*.html linguist-detectable=false
+# Force GitHub Linguist to recognize repository as Python
+*.py linguist-language=Python
+*.ipynb linguist-language=Python
+*.pyw linguist-language=Python
+
+# Optional: mark notebooks and scripts as code for stats
+*.ipynb linguist-detectable=true
+*.py linguist-detectable=true
+
+# (Optional) mark non-source files as documentation or data
+*.csv linguist-documentation
+*.html linguist-documentation
+*.md linguist-documentation
